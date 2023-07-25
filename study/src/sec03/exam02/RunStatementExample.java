@@ -7,8 +7,12 @@ public class RunStatementExample {
 		int x = 1;
 		int y = 2;
 		int result = x + y;
-		System.out.println(result);
+		System.out.println(result);	
 
+		
+		int value = 30;
+		int score = value + 10;
+		System.out.println(score);
 	}
 
 }
